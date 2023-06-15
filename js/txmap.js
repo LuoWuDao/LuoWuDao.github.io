@@ -3,9 +3,9 @@ $.ajax({
     type: 'get',
     url: 'https://apis.map.qq.com/ws/location/v1/ip',
     data: {
-        key: 'Z4LBZ-VJ6KQ-4KR5B-4LOGH-GVSKV-D7BOX',
+        key: '你的key',
         output: 'jsonp',
-    },  
+    },
     dataType: 'jsonp',
     success: function (res) {
         ipLoacation = res;
