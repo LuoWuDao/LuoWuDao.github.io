@@ -8,7 +8,7 @@
       <link href="/2023/02/13/verses/"/>
       <url>/2023/02/13/verses/</url>
       
-        <content type="html"><![CDATA[<div align="center"><img src="/2023/02/13/verses/20230213.jpg" class title="图文来源网络如有侵权请联系删除"></div>]]></content>
+        <content type="html"><![CDATA[<div align="center"> <p><img src="https://cdn.staticaly.com/gh/LuoWuDao/HexoStaticFile@main/img/20230213.jpg"></p></div>]]></content>
       
       
       <categories>
@@ -33,7 +33,7 @@
       <link href="/2022/09/28/verses-2/"/>
       <url>/2022/09/28/verses-2/</url>
       
-        <content type="html"><![CDATA[<div align="center"><img src="/2022/09/28/verses-2/20220928.jpg" class title="图文来源网络如有侵权请联系删除"></div>]]></content>
+        <content type="html"><![CDATA[<div align="center"> <p><img src="https://cdn.staticaly.com/gh/LuoWuDao/HexoStaticFile@main/img/20220928.jpg"></p></div>]]></content>
       
       
       <categories>
@@ -54,36 +54,11 @@
     
     
     <entry>
-      <title>凑数而已-《千万不要随便死掉》</title>
-      <link href="/2022/01/16/diary/"/>
-      <url>/2022/01/16/diary/</url>
-      
-        <content type="html"><![CDATA[<div align="center"><img src="/2022/01/16/diary/20230614113719.jpg" class title="图文来源网络如有侵权请联系删除"></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 个人日记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 个人日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>凑数而已-《莫忘少年凌云志》</title>
       <link href="/2022/01/16/tutorial/"/>
       <url>/2022/01/16/tutorial/</url>
       
-        <content type="html"><![CDATA[<img src="/2022/01/16/tutorial/20230614113712.jpg" class width="750" height="960" title="图文来源网络如有侵权请联系删除">]]></content>
+        <content type="html"><![CDATA[<div align="center" width="750" height="960"> <p><img src="https://cdn.staticaly.com/gh/LuoWuDao/HexoStaticFile@main/img/20230614113712.jpg"></p></div>]]></content>
       
       
       <categories>
@@ -108,7 +83,7 @@
       <link href="/2022/01/16/verses-1/"/>
       <url>/2022/01/16/verses-1/</url>
       
-        <content type="html"><![CDATA[<div align="center"><img src="/2022/01/16/verses-1/20220116.jpg" class title="图文来源网络如有侵权请联系删除"></div>]]></content>
+        <content type="html"><![CDATA[<div align="center"> <p><img src="https://cdn.staticaly.com/gh/LuoWuDao/HexoStaticFile@main/img/20220116.jpg"></p></div>]]></content>
       
       
       <categories>
@@ -121,6 +96,31 @@
         <tags>
             
             <tag> 诗词歌赋 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>凑数而已-《千万不要随便死掉》</title>
+      <link href="/2022/01/16/diary/"/>
+      <url>/2022/01/16/diary/</url>
+      
+        <content type="html"><![CDATA[<div align="center" width="750" height="960"> <p><img src="https://cdn.staticaly.com/gh/LuoWuDao/HexoStaticFile@main/img/20230614113719.jpg"></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人日记 </tag>
             
         </tags>
       
